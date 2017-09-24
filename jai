@@ -1,1 +1,2 @@
-hey this is the demonstration of the git
+to check git diff
+just an example
